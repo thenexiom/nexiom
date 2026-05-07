@@ -1,0 +1,278 @@
+{
+  "nav": {
+    "home": "Home",
+    "plans": "Plans",
+    "solutions": "Solutions",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Book Free Consultation"
+  },
+  "hero": {
+    "badge": "Modern CRM & Automation Agency",
+    "headline": "Modernize your business with a CRM that actually works",
+    "subheadline": "Nexiom helps small and growing businesses organize their customers, automate their workflows, and scale — without the complexity.",
+    "cta_primary": "Book a Free Consultation",
+    "cta_secondary": "Explore Plans",
+    "stat1_value": "3x",
+    "stat1_label": "Faster sales cycles",
+    "stat2_value": "80%",
+    "stat2_label": "Less manual work",
+    "stat3_value": "2 weeks",
+    "stat3_label": "Average setup time"
+  },
+  "pain": {
+    "badge": "Sound familiar?",
+    "headline": "Running your business on spreadsheets and sticky notes?",
+    "subheadline": "Most growing businesses hit a wall when their systems can't keep up with them.",
+    "items": [
+      {
+        "title": "Leads falling through the cracks",
+        "desc": "Without a structured follow-up system, potential clients disappear and revenue gets left on the table."
+      },
+      {
+        "title": "Manual, repetitive tasks",
+        "desc": "Your team spends hours on admin work that should be automated — emails, updates, reminders, data entry."
+      },
+      {
+        "title": "No visibility on your pipeline",
+        "desc": "You can't tell where deals stand, who needs follow-up, or how your team is performing at a glance."
+      },
+      {
+        "title": "Scattered customer data",
+        "desc": "Contact info in emails, notes in notebooks, history in someone's head — it's time to centralize."
+      },
+      {
+        "title": "Missed follow-ups",
+        "desc": "Busy days mean important clients don't hear back on time, and deals go cold without you realizing."
+      },
+      {
+        "title": "No growth system",
+        "desc": "Growing a business without proper systems means every new client adds more chaos, not more revenue."
+      }
+    ]
+  },
+  "what": {
+    "badge": "What we do",
+    "headline": "We build CRM systems that run your business, not the other way around",
+    "subheadline": "From setup to automation — we handle everything so you can focus on what matters: growing.",
+    "items": [
+      {
+        "title": "CRM Implementation",
+        "desc": "We set up and configure your CRM from scratch — contacts, pipelines, and workflows tailored to how you actually work."
+      },
+      {
+        "title": "Workflow Automation",
+        "desc": "Stop doing the same thing twice. We automate your follow-ups, notifications, task creation, and reporting."
+      },
+      {
+        "title": "Sales Pipeline",
+        "desc": "A clear, structured view of every deal. Know exactly where each prospect stands and what action to take next."
+      },
+      {
+        "title": "Dashboards & Reporting",
+        "desc": "Real-time visibility into your business — revenue, team performance, client activity, and key metrics."
+      },
+      {
+        "title": "Integrations",
+        "desc": "Connect your CRM to the tools you already use — email, calendar, forms, payments, and more."
+      },
+      {
+        "title": "Ongoing Optimization",
+        "desc": "We don't disappear after launch. We review, refine, and improve your system as your business evolves."
+      }
+    ]
+  },
+  "plans_preview": {
+    "badge": "Our plans",
+    "headline": "Choose the plan that fits where you are today",
+    "subheadline": "Every plan includes a dedicated setup, personalized configuration, and ongoing support.",
+    "cta": "See full plan details",
+    "plans": [
+      {
+        "name": "Essential",
+        "tagline": "Get organized",
+        "desc": "For businesses ready to move beyond spreadsheets and structure their customer management.",
+        "features": ["CRM setup & configuration", "Contact & lead management", "Basic sales pipeline", "Email integration", "Monthly support call"]
+      },
+      {
+        "name": "Performance",
+        "tagline": "Automate & grow",
+        "desc": "For growing businesses ready to save time, automate workflows, and optimize their operations.",
+        "features": ["Everything in Essential", "Workflow automation", "Advanced pipelines", "Reporting dashboards", "Priority support", "2 integrations included"]
+      },
+      {
+        "name": "Elite",
+        "tagline": "Scale without limits",
+        "desc": "For businesses that want advanced automation, deep integrations, and a long-term CRM growth partner.",
+        "features": ["Everything in Performance", "Advanced automations", "Custom dashboards", "Unlimited integrations", "Dedicated CRM consultant", "Quarterly strategy sessions"]
+      }
+    ]
+  },
+  "automation": {
+    "badge": "See it in action",
+    "headline": "Automation that works while you sleep",
+    "subheadline": "These are just a few examples of what Nexiom builds for your business.",
+    "flows": [
+      {
+        "title": "New Lead Captured",
+        "steps": ["Lead fills form on your website", "CRM creates contact instantly", "Automated welcome email sent", "Task assigned to sales rep", "Follow-up reminder set for Day 3"]
+      },
+      {
+        "title": "Missed Call Recovery",
+        "steps": ["Missed call detected", "CRM logs the missed call", "Automated SMS sent to caller", "Task created for callback", "Manager notified if unresolved"]
+      },
+      {
+        "title": "Quote Accepted",
+        "steps": ["Client signs the quote", "Project created in CRM", "Onboarding email sequence starts", "Team notified with project brief", "Invoice sent automatically"]
+      }
+    ]
+  },
+  "mobile": {
+    "badge": "Always with you",
+    "headline": "Your entire business in your pocket",
+    "subheadline": "Manage leads, update deals, and check your pipeline from anywhere — your CRM works perfectly on every device.",
+    "features": ["Real-time lead notifications", "Mobile pipeline management", "Quick notes & tasks on the go", "Team activity feed", "Dashboard at a glance"]
+  },
+  "why": {
+    "badge": "Why Nexiom",
+    "headline": "A CRM partner that actually understands your business",
+    "subheadline": "We're not a software reseller. We're a hands-on implementation partner focused on real results for real businesses.",
+    "items": [
+      {
+        "title": "Built for SMBs",
+        "desc": "We specialize in small and growing businesses. No bloated enterprise solutions — just systems that fit your scale."
+      },
+      {
+        "title": "Human & hands-on",
+        "desc": "You get a real person who knows your business, not a ticket queue. We configure, we train, we support."
+      },
+      {
+        "title": "Modern systems only",
+        "desc": "We use the latest CRM platforms and automation tools — no outdated software, no unnecessary complexity."
+      },
+      {
+        "title": "Long-term partnership",
+        "desc": "We grow with you. As your business evolves, we optimize your system to match your new goals."
+      }
+    ]
+  },
+  "process": {
+    "badge": "How it works",
+    "headline": "Up and running in as little as 2 weeks",
+    "subheadline": "A clear, simple process from day one to full automation.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Discovery",
+        "desc": "We start with a strategy call to understand your business, your team, your tools, and your biggest pain points."
+      },
+      {
+        "number": "02",
+        "title": "CRM Setup",
+        "desc": "We configure your CRM from scratch — contacts, pipelines, stages, fields, and email integration."
+      },
+      {
+        "number": "03",
+        "title": "Automation",
+        "desc": "We build the workflows that save your team hours every week — follow-ups, notifications, reports, and more."
+      },
+      {
+        "number": "04",
+        "title": "Support & Growth",
+        "desc": "We stay with you. Monthly check-ins, ongoing optimizations, and support whenever you need it."
+      }
+    ]
+  },
+  "faq": {
+    "badge": "FAQ",
+    "headline": "Common questions",
+    "items": [
+      {
+        "q": "Do I need technical knowledge to use a CRM?",
+        "a": "Not at all. We handle the entire setup, configuration, and training. Your team gets a system that's intuitive and ready to use from day one."
+      },
+      {
+        "q": "Can this work for a small business?",
+        "a": "Absolutely. Our Essential and Performance plans are specifically designed for small businesses looking to get organized and save time without enterprise-level complexity."
+      },
+      {
+        "q": "Is the CRM mobile-friendly?",
+        "a": "Yes. The CRM systems we implement work seamlessly on mobile — you can manage leads, update deals, and check your pipeline from your phone."
+      },
+      {
+        "q": "How long does the setup take?",
+        "a": "Most setups are complete in 1–3 weeks depending on complexity. We work efficiently to minimize disruption to your operations."
+      },
+      {
+        "q": "Can Nexiom automate my specific workflows?",
+        "a": "Yes. During our discovery call, we map out your current processes and build automations tailored specifically to how your business works."
+      },
+      {
+        "q": "What CRM platforms do you work with?",
+        "a": "We work with leading modern CRM platforms and recommend the best fit for your business size, industry, and goals."
+      }
+    ]
+  },
+  "cta_section": {
+    "headline": "Ready to modernize your business operations?",
+    "subheadline": "Book a free 30-minute strategy call. No commitment, no pressure — just a clear plan for your business.",
+    "cta_primary": "Book Your Free Call",
+    "cta_secondary": "See Plans"
+  },
+  "footer": {
+    "tagline": "Modern CRM systems for growing businesses.",
+    "pages": "Pages",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2025 Nexiom. All rights reserved.",
+    "email": "hello@nexiom.co"
+  },
+  "contact": {
+    "badge": "Let's talk",
+    "headline": "Book your free consultation",
+    "subheadline": "Tell us about your business and we'll reach out within 24 hours to schedule your strategy call.",
+    "step1": {"label": "What's your email?", "placeholder": "your@email.com"},
+    "step2": {"label": "What's your business name?", "placeholder": "Your Business Name"},
+    "step3": {"label": "What type of business do you run?", "options": ["Service business", "Construction / Trades", "Real estate", "Retail / E-commerce", "Consulting", "Healthcare", "Other"]},
+    "step4": {"label": "What's your biggest challenge right now?", "options": ["Managing leads & follow-ups", "Too much manual/repetitive work", "No visibility on sales pipeline", "Scattered customer information", "Scaling without more staff", "Other"]},
+    "step5": {"label": "Anything else you'd like to share? (optional)", "placeholder": "Tell us more about your goals..."},
+    "submit": "Send My Request",
+    "success_title": "You're all set!",
+    "success_desc": "We'll reach out within 24 hours to schedule your free strategy call.",
+    "next": "Continue",
+    "back": "Back"
+  },
+  "plans_page": {
+    "badge": "Transparent pricing",
+    "headline": "Simple plans for real businesses",
+    "subheadline": "Every plan includes full CRM setup, personalized configuration, and dedicated support.",
+    "monthly": "/ month",
+    "most_popular": "Most Popular",
+    "cta": "Get Started",
+    "contact_cta": "Book Free Consultation",
+    "features_title": "Everything included",
+    "advisor_badge": "AI CRM Advisor",
+    "advisor_headline": "Not sure which plan is right for you?",
+    "advisor_subheadline": "Answer a few quick questions and our AI advisor will recommend the best plan for your business.",
+    "advisor_start": "Find My Plan"
+  },
+  "solutions_page": {
+    "badge": "Solutions",
+    "headline": "CRM solutions built around your business",
+    "subheadline": "Whether you're just getting organized or ready for full automation — we have a solution that fits.",
+    "industries_badge": "Who we help",
+    "industries_headline": "Industries we specialize in",
+    "benefits_badge": "Why it works",
+    "benefits_headline": "Real results for real businesses"
+  },
+  "about_page": {
+    "badge": "Our story",
+    "headline": "We believe every business deserves modern tools",
+    "subheadline": "Nexiom was built to bridge the gap between powerful CRM technology and the businesses that need it most — but don't have the time or resources to figure it out alone.",
+    "mission_headline": "Our mission",
+    "mission_text": "To make modern CRM systems and automation accessible, affordable, and effective for small and medium businesses.",
+    "values_badge": "What we stand for",
+    "values_headline": "Our values"
+  }
+}

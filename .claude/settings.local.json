@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --yes)",
+      "Bash(npm install *)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\el-mo\\\\PC Documents\\\\Mes Projets\\\\AI\\\\Claude Code\\\\nexiom\\\\src\\\\app\\\\[locale]\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\el-mo\\\\PC Documents\\\\Mes Projets\\\\AI\\\\Claude Code\\\\nexiom\\\\src\\\\app\\\\[locale]\\\\plans\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\el-mo\\\\PC Documents\\\\Mes Projets\\\\AI\\\\Claude Code\\\\nexiom\\\\src\\\\app\\\\[locale]\\\\solutions\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\el-mo\\\\PC Documents\\\\Mes Projets\\\\AI\\\\Claude Code\\\\nexiom\\\\src\\\\app\\\\[locale]\\\\about\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\el-mo\\\\PC Documents\\\\Mes Projets\\\\AI\\\\Claude Code\\\\nexiom\\\\src\\\\app\\\\[locale]\\\\contact\")"
+    ]
+  }
+}

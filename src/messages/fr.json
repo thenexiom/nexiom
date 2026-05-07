@@ -1,0 +1,278 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "plans": "Forfaits",
+    "solutions": "Solutions",
+    "about": "À propos",
+    "contact": "Contact",
+    "cta": "Réserver une consultation"
+  },
+  "hero": {
+    "badge": "Agence CRM & Automatisation",
+    "headline": "Modernisez votre entreprise avec un CRM qui fonctionne vraiment",
+    "subheadline": "Nexiom aide les petites et moyennes entreprises à organiser leurs clients, automatiser leurs processus et croître — sans la complexité.",
+    "cta_primary": "Réserver une consultation gratuite",
+    "cta_secondary": "Voir les forfaits",
+    "stat1_value": "3x",
+    "stat1_label": "Cycles de vente plus rapides",
+    "stat2_value": "80%",
+    "stat2_label": "Moins de travail manuel",
+    "stat3_value": "2 semaines",
+    "stat3_label": "Délai moyen d'installation"
+  },
+  "pain": {
+    "badge": "Ça vous parle ?",
+    "headline": "Vous gérez encore votre entreprise avec des tableurs et des post-its ?",
+    "subheadline": "La plupart des entreprises en croissance atteignent un mur quand leurs systèmes ne suivent plus.",
+    "items": [
+      {
+        "title": "Des prospects qui disparaissent",
+        "desc": "Sans système de suivi structuré, des clients potentiels s'évaporent et des revenus sont perdus."
+      },
+      {
+        "title": "Des tâches manuelles et répétitives",
+        "desc": "Votre équipe passe des heures sur des tâches qui devraient être automatisées — emails, mises à jour, rappels, saisie."
+      },
+      {
+        "title": "Aucune visibilité sur votre pipeline",
+        "desc": "Impossible de savoir où en sont vos deals, qui a besoin d'un suivi, ou comment votre équipe performe."
+      },
+      {
+        "title": "Données clients éparpillées",
+        "desc": "Contacts dans les emails, notes dans des carnets, historique dans la tête de quelqu'un — il faut centraliser."
+      },
+      {
+        "title": "Des suivis manqués",
+        "desc": "Les journées chargées font que des clients importants n'ont pas de réponse à temps, et des deals refroidissent."
+      },
+      {
+        "title": "Pas de système de croissance",
+        "desc": "Croître sans bons systèmes signifie que chaque nouveau client ajoute plus de chaos, pas plus de revenus."
+      }
+    ]
+  },
+  "what": {
+    "badge": "Ce que nous faisons",
+    "headline": "Nous construisons des CRM qui font tourner votre entreprise, pas l'inverse",
+    "subheadline": "De la mise en place à l'automatisation — nous gérons tout pour que vous puissiez vous concentrer sur ce qui compte : croître.",
+    "items": [
+      {
+        "title": "Mise en place CRM",
+        "desc": "Nous configurons votre CRM de A à Z — contacts, pipelines et workflows adaptés à votre façon de travailler."
+      },
+      {
+        "title": "Automatisation des flux",
+        "desc": "Arrêtez de faire deux fois la même chose. On automatise vos suivis, notifications, créations de tâches et rapports."
+      },
+      {
+        "title": "Pipeline de vente",
+        "desc": "Une vue claire et structurée de chaque deal. Sachez exactement où en est chaque prospect et quelle action prendre."
+      },
+      {
+        "title": "Tableaux de bord & Rapports",
+        "desc": "Visibilité en temps réel sur votre activité — revenus, performance de l'équipe, activité clients et indicateurs clés."
+      },
+      {
+        "title": "Intégrations",
+        "desc": "Connectez votre CRM aux outils que vous utilisez déjà — email, calendrier, formulaires, paiements, et plus encore."
+      },
+      {
+        "title": "Optimisation continue",
+        "desc": "Nous ne disparaissons pas après le lancement. Nous révisons, affinons et améliorons votre système au fil du temps."
+      }
+    ]
+  },
+  "plans_preview": {
+    "badge": "Nos forfaits",
+    "headline": "Choisissez le forfait adapté à où vous en êtes aujourd'hui",
+    "subheadline": "Chaque forfait inclut une configuration dédiée, personnalisée et un support continu.",
+    "cta": "Voir tous les détails",
+    "plans": [
+      {
+        "name": "Essentiel",
+        "tagline": "S'organiser",
+        "desc": "Pour les entreprises prêtes à sortir des tableurs et structurer la gestion de leurs clients.",
+        "features": ["Configuration CRM", "Gestion contacts & prospects", "Pipeline de vente de base", "Intégration email", "Appel de support mensuel"]
+      },
+      {
+        "name": "Performance",
+        "tagline": "Automatiser & croître",
+        "desc": "Pour les entreprises en croissance prêtes à gagner du temps et optimiser leurs opérations.",
+        "features": ["Tout de l'Essentiel", "Automatisation des workflows", "Pipelines avancés", "Tableaux de bord", "Support prioritaire", "2 intégrations incluses"]
+      },
+      {
+        "name": "Élite",
+        "tagline": "Évoluer sans limites",
+        "desc": "Pour les entreprises qui veulent l'automatisation avancée et un partenaire CRM à long terme.",
+        "features": ["Tout du Performance", "Automatisations avancées", "Tableaux de bord personnalisés", "Intégrations illimitées", "Consultant CRM dédié", "Sessions stratégie trimestrielles"]
+      }
+    ]
+  },
+  "automation": {
+    "badge": "Voir en action",
+    "headline": "Une automatisation qui travaille pendant que vous dormez",
+    "subheadline": "Voici quelques exemples de ce que Nexiom construit pour votre entreprise.",
+    "flows": [
+      {
+        "title": "Nouveau prospect capturé",
+        "steps": ["Le prospect remplit le formulaire", "Le CRM crée le contact instantanément", "Email de bienvenue automatique envoyé", "Tâche assignée au commercial", "Rappel de suivi fixé à J+3"]
+      },
+      {
+        "title": "Récupération d'appel manqué",
+        "steps": ["Appel manqué détecté", "Le CRM enregistre l'appel", "SMS automatique envoyé à l'appelant", "Tâche de rappel créée", "Manager notifié si non résolu"]
+      },
+      {
+        "title": "Devis accepté",
+        "steps": ["Le client signe le devis", "Projet créé dans le CRM", "Séquence email d'onboarding démarrée", "Équipe notifiée avec le brief", "Facture envoyée automatiquement"]
+      }
+    ]
+  },
+  "mobile": {
+    "badge": "Toujours avec vous",
+    "headline": "Toute votre entreprise dans votre poche",
+    "subheadline": "Gérez des prospects, mettez à jour des deals et consultez votre pipeline de n'importe où — votre CRM fonctionne parfaitement sur tous les appareils.",
+    "features": ["Notifications de prospects en temps réel", "Gestion du pipeline mobile", "Notes et tâches rapides en déplacement", "Fil d'activité de l'équipe", "Tableau de bord en un coup d'œil"]
+  },
+  "why": {
+    "badge": "Pourquoi Nexiom",
+    "headline": "Un partenaire CRM qui comprend vraiment votre entreprise",
+    "subheadline": "Nous ne sommes pas un revendeur de logiciels. Nous sommes un partenaire d'implémentation axé sur des résultats réels.",
+    "items": [
+      {
+        "title": "Conçu pour les PME",
+        "desc": "Nous sommes spécialisés dans les petites et moyennes entreprises. Pas de solutions enterprise bloatées — juste des systèmes à votre échelle."
+      },
+      {
+        "title": "Humain & terrain",
+        "desc": "Vous avez une vraie personne qui connaît votre business, pas une file d'attente de tickets. On configure, on forme, on supporte."
+      },
+      {
+        "title": "Systèmes modernes uniquement",
+        "desc": "Nous utilisons les dernières plateformes CRM et outils d'automatisation — pas de vieux logiciels, pas de complexité inutile."
+      },
+      {
+        "title": "Partenariat long terme",
+        "desc": "Nous grandissons avec vous. À mesure que votre entreprise évolue, nous optimisons votre système pour correspondre à vos nouveaux objectifs."
+      }
+    ]
+  },
+  "process": {
+    "badge": "Comment ça marche",
+    "headline": "Opérationnel en aussi peu que 2 semaines",
+    "subheadline": "Un processus clair et simple du premier jour à l'automatisation complète.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Découverte",
+        "desc": "On commence par un appel stratégique pour comprendre votre entreprise, votre équipe, vos outils et vos plus grands défis."
+      },
+      {
+        "number": "02",
+        "title": "Configuration CRM",
+        "desc": "Nous configurons votre CRM de zéro — contacts, pipelines, étapes, champs et intégration email."
+      },
+      {
+        "number": "03",
+        "title": "Automatisation",
+        "desc": "Nous construisons les workflows qui font gagner des heures chaque semaine — suivis, notifications, rapports, et plus."
+      },
+      {
+        "number": "04",
+        "title": "Support & Croissance",
+        "desc": "Nous restons avec vous. Points mensuels, optimisations continues et support quand vous en avez besoin."
+      }
+    ]
+  },
+  "faq": {
+    "badge": "FAQ",
+    "headline": "Questions fréquentes",
+    "items": [
+      {
+        "q": "Ai-je besoin de compétences techniques pour utiliser un CRM ?",
+        "a": "Pas du tout. Nous gérons toute la configuration, la mise en place et la formation. Votre équipe obtient un système intuitif et prêt à utiliser dès le premier jour."
+      },
+      {
+        "q": "Est-ce que ça fonctionne pour une petite entreprise ?",
+        "a": "Absolument. Nos forfaits Essentiel et Performance sont spécialement conçus pour les petites entreprises qui veulent s'organiser et gagner du temps."
+      },
+      {
+        "q": "Le CRM est-il mobile ?",
+        "a": "Oui. Les systèmes CRM que nous implémentons fonctionnent parfaitement sur mobile — vous pouvez gérer des prospects, mettre à jour des deals et consulter votre pipeline depuis votre téléphone."
+      },
+      {
+        "q": "Combien de temps dure la mise en place ?",
+        "a": "La plupart des mises en place sont complètes en 1 à 3 semaines selon la complexité. Nous travaillons efficacement pour minimiser l'impact sur vos opérations."
+      },
+      {
+        "q": "Nexiom peut-il automatiser mes processus spécifiques ?",
+        "a": "Oui. Lors de notre appel de découverte, nous cartographions vos processus actuels et construisons des automatisations sur mesure."
+      },
+      {
+        "q": "Avec quelles plateformes CRM travaillez-vous ?",
+        "a": "Nous travaillons avec les principales plateformes CRM modernes et recommandons le meilleur choix selon votre taille, secteur et objectifs."
+      }
+    ]
+  },
+  "cta_section": {
+    "headline": "Prêt à moderniser votre entreprise ?",
+    "subheadline": "Réservez un appel stratégique gratuit de 30 minutes. Sans engagement, sans pression — juste un plan clair pour votre entreprise.",
+    "cta_primary": "Réserver votre appel gratuit",
+    "cta_secondary": "Voir les forfaits"
+  },
+  "footer": {
+    "tagline": "Systèmes CRM modernes pour les entreprises en croissance.",
+    "pages": "Pages",
+    "legal": "Légal",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "copyright": "© 2025 Nexiom. Tous droits réservés.",
+    "email": "hello@nexiom.co"
+  },
+  "contact": {
+    "badge": "Parlons-en",
+    "headline": "Réservez votre consultation gratuite",
+    "subheadline": "Parlez-nous de votre entreprise et nous vous recontacterons sous 24h pour planifier votre appel stratégique.",
+    "step1": {"label": "Quelle est votre adresse email ?", "placeholder": "votre@email.com"},
+    "step2": {"label": "Quel est le nom de votre entreprise ?", "placeholder": "Nom de votre entreprise"},
+    "step3": {"label": "Quel type d'entreprise dirigez-vous ?", "options": ["Service / Conseil", "Construction / Artisanat", "Immobilier", "Commerce / E-commerce", "Consulting", "Santé", "Autre"]},
+    "step4": {"label": "Quel est votre plus grand défi en ce moment ?", "options": ["Gérer les prospects et suivis", "Trop de travail manuel et répétitif", "Aucune visibilité sur le pipeline de vente", "Informations clients éparpillées", "Grandir sans embaucher plus", "Autre"]},
+    "step5": {"label": "Autre chose à partager ? (optionnel)", "placeholder": "Parlez-nous de vos objectifs..."},
+    "submit": "Envoyer ma demande",
+    "success_title": "C'est tout bon !",
+    "success_desc": "Nous vous recontacterons sous 24h pour planifier votre appel stratégique gratuit.",
+    "next": "Continuer",
+    "back": "Retour"
+  },
+  "plans_page": {
+    "badge": "Tarifs transparents",
+    "headline": "Des forfaits simples pour de vraies entreprises",
+    "subheadline": "Chaque forfait inclut la configuration complète du CRM, une configuration personnalisée et un support dédié.",
+    "monthly": "/ mois",
+    "most_popular": "Le plus populaire",
+    "cta": "Commencer",
+    "contact_cta": "Consultation gratuite",
+    "features_title": "Tout inclus",
+    "advisor_badge": "Conseiller IA CRM",
+    "advisor_headline": "Vous ne savez pas quel forfait vous convient ?",
+    "advisor_subheadline": "Répondez à quelques questions rapides et notre conseiller IA vous recommandera le meilleur forfait.",
+    "advisor_start": "Trouver mon forfait"
+  },
+  "solutions_page": {
+    "badge": "Solutions",
+    "headline": "Des solutions CRM construites autour de votre entreprise",
+    "subheadline": "Que vous cherchiez à vous organiser ou à passer à l'automatisation complète — nous avons une solution adaptée.",
+    "industries_badge": "Qui nous aidons",
+    "industries_headline": "Secteurs dans lesquels nous sommes spécialisés",
+    "benefits_badge": "Pourquoi ça marche",
+    "benefits_headline": "Des résultats réels pour de vraies entreprises"
+  },
+  "about_page": {
+    "badge": "Notre histoire",
+    "headline": "Nous croyons que chaque entreprise mérite des outils modernes",
+    "subheadline": "Nexiom a été créé pour combler le fossé entre les puissantes technologies CRM et les entreprises qui en ont le plus besoin — mais qui n'ont pas le temps ou les ressources pour les appréhender seules.",
+    "mission_headline": "Notre mission",
+    "mission_text": "Rendre les systèmes CRM modernes et l'automatisation accessibles, abordables et efficaces pour les petites et moyennes entreprises.",
+    "values_badge": "Ce pour quoi nous nous battons",
+    "values_headline": "Nos valeurs"
+  }
+}
