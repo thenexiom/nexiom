@@ -93,16 +93,8 @@ export default function Hero() {
           animate="visible"
           className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-[#1E2B3A] leading-tight tracking-tight max-w-5xl mx-auto mb-6"
         >
-          {t("headline").split("CRM").map((part, i, arr) =>
-            i < arr.length - 1 ? (
-              <span key={i}>
-                {part}
-                <span className="gradient-text">CRM</span>
-              </span>
-            ) : (
-              <span key={i}>{part}</span>
-            )
-          )}
+          <span className="gradient-text">{t("headline").split(" ").slice(0, 3).join(" ")}</span>{" "}
+          {t("headline").split(" ").slice(3).join(" ")}
         </motion.h1>
 
         {/* Subheadline */}

@@ -5,7 +5,8 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
 import { useTranslations, useLocale } from "next-intl";
-import { Menu, X, ChevronDown } from "lucide-react";
+import { Menu, X } from "lucide-react";
+import NexiomLogo from "@/components/ui/NexiomLogo";
 
 export default function Navbar() {
   const t = useTranslations("nav");
@@ -45,13 +46,8 @@ export default function Navbar() {
       >
         <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
           {/* Logo */}
-          <Link href={`/${locale}`} className="flex items-center gap-2 group">
-            <div className="w-8 h-8 rounded-lg gradient-bg flex items-center justify-center shadow-blue">
-              <span className="text-white font-bold text-sm">N</span>
-            </div>
-            <span className="font-bold text-lg text-[#1E2B3A] tracking-tight">
-              Nexiom
-            </span>
+          <Link href={`/${locale}`} className="flex items-center">
+            <NexiomLogo height={34} />
           </Link>
 
           {/* Desktop nav */}

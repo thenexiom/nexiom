@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { useTranslations, useLocale } from "next-intl";
-import { Mail, Linkedin, Twitter } from "lucide-react";
+import { Mail, Globe, AtSign } from "lucide-react";
+import NexiomLogo from "@/components/ui/NexiomLogo";
 
 export default function Footer() {
   const t = useTranslations("footer");
@@ -21,11 +22,8 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
           {/* Brand */}
           <div className="md:col-span-1">
-            <div className="flex items-center gap-2 mb-4">
-              <div className="w-8 h-8 rounded-lg gradient-bg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">N</span>
-              </div>
-              <span className="font-bold text-lg tracking-tight">Nexiom</span>
+            <div className="mb-4">
+              <NexiomLogo height={32} dark />
             </div>
             <p className="text-white/60 text-sm leading-relaxed max-w-xs">
               {t("tagline")}
@@ -39,18 +37,18 @@ export default function Footer() {
                 <Mail size={16} />
               </a>
               <a
-                href="#"
+                href="https://thenexiom.com"
                 className="p-2 rounded-lg bg-white/10 hover:bg-white/20 transition-colors"
-                aria-label="LinkedIn"
+                aria-label="Website"
               >
-                <Linkedin size={16} />
+                <Globe size={16} />
               </a>
               <a
-                href="#"
+                href="mailto:hello@nexiom.co"
                 className="p-2 rounded-lg bg-white/10 hover:bg-white/20 transition-colors"
-                aria-label="Twitter"
+                aria-label="Contact"
               >
-                <Twitter size={16} />
+                <AtSign size={16} />
               </a>
             </div>
           </div>
