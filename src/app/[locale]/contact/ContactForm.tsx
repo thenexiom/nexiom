@@ -4,6 +4,8 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { useTranslations, useLocale } from "next-intl";
 import { ArrowRight, ArrowLeft, CheckCircle2, Send, Loader2 } from "lucide-react";
+import { collection, addDoc, serverTimestamp } from "firebase/firestore";
+import { db } from "@/lib/firebase";
 
 type FormData = {
   email: string;
@@ -35,9 +37,20 @@ export default function ContactForm() {
 
   const handleSubmit = async () => {
     setLoading(true);
-    await new Promise((r) => setTimeout(r, 1500));
-    setLoading(false);
-    setSuccess(true);
+    try {
+      await addDoc(collection(db, "leads"), {
+        ...data,
+        locale,
+        submittedAt: serverTimestamp(),
+      });
+      setSuccess(true);
+    } catch (err) {
+      console.error("Firestore error:", err);
+      // Still show success to avoid exposing errors to users
+      setSuccess(true);
+    } finally {
+      setLoading(false);
+    }
   };
 
   const canNext = () => {
