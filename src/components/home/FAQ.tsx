@@ -64,7 +64,7 @@ export default function FAQ() {
                     initial={{ height: 0, opacity: 0 }}
                     animate={{ height: "auto", opacity: 1 }}
                     exit={{ height: 0, opacity: 0 }}
-                    transition={{ duration: 0.3, ease: [0.22, 1, 0.36, 1] }}
+                    transition={{ duration: 0.3, ease: [0.22, 1, 0.36, 1] as [number, number, number, number] }}
                   >
                     <div className="px-5 pb-5 text-sm text-[#1E2B3A]/60 leading-relaxed border-t border-gray-100 pt-4">
                       {item.a}
